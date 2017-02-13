@@ -1,0 +1,56 @@
+body {
+	background: #485563; /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, #485563 , #29323c); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, #485563 , #29323c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        }
+
+
+h1 {
+	color: white;
+	font-family: 'Gentium Basic', bold;
+	font-size: 4.2em;
+	letter-spacing: 0.1em;
+}
+
+h3 {
+	color: white;
+	font-family: "Gentium Basic";
+	font-style: italic;
+}
+
+img {
+	margin-top: 5%;
+	
+}
+
+p {
+	margin-top: 2%;
+	color: white;
+	font-family: "Gentium Basic";
+	font-size:1.5em;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+	font-family: "Gentium Basic";
+	font-size: 1.3em;
+	letter-spacing: 2%;
+	font-style: capitalize;
+}
+
+.row {
+	margin-top: 5%;
+	margin-bottom: 3%;
+}
+
+a:hover {
+	color: white;
+	text-decoration: none;
+}
+
+a:link, a:visited {
+	color: white;
+	text-decoration: none;
+}
+
